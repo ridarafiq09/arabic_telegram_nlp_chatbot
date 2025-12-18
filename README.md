@@ -123,7 +123,7 @@ The trained model is then loaded for **intent inference** inside the Telegram ch
 ## Demo
 
 🎥 **Demo Video:**
-(Add YouTube or Google Drive link here)
+https://drive.google.com/file/d/1NO3RjTMCGEk2SKcgWBWzcPHFAdeX_93d/view?usp=sharing
 
 ---
 
@@ -149,3 +149,4 @@ This project focuses on **practical NLP integration**, showing how transformer m
 Built as an **applied NLP and software engineering project**, demonstrating real-world usage of transformer-based Arabic language models in a production-style chatbot system.
 
 ---
+
