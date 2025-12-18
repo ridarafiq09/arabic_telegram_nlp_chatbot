@@ -1,0 +1,77 @@
+text,label
+مرحبا,GREETING
+أهلاً,GREETING
+أهلا وسهلا,GREETING
+السلام عليكم,GREETING
+وعليكم السلام,GREETING
+صباح الخير,GREETING
+مساء الخير,GREETING
+هلا,GREETING
+أهلاً بك,GREETING
+كيف الحال,GREETING
+كيفك,GREETING
+مرحبتين,GREETING
+أهلاً وسهلاً بك,GREETING
+حياك الله,GREETING
+أهلاً فيكم,GREETING
+مرحبا فيك,GREETING
+تشرفت بمعرفتك,GREETING
+أهلاً ومرحباً,GREETING
+أهلاً يا صديقي,GREETING
+السلام عليكم ورحمة الله,GREETING
+
+كم سعر الفستان؟,PRICE_INQUIRY
+بكم سعر الفستان؟,PRICE_INQUIRY
+كم سعر هذا الفستان؟,PRICE_INQUIRY
+كم السعر؟,PRICE_INQUIRY
+بكم هذا؟,PRICE_INQUIRY
+كم يكلف؟,PRICE_INQUIRY
+أبغى أعرف السعر,PRICE_INQUIRY
+السعر كم؟,PRICE_INQUIRY
+كم ثمنه؟,PRICE_INQUIRY
+ما سعر المنتج؟,PRICE_INQUIRY
+كم تكلفة الفستان؟,PRICE_INQUIRY
+بكم البيع؟,PRICE_INQUIRY
+هل السعر مرتفع؟,PRICE_INQUIRY
+سعره كم؟,PRICE_INQUIRY
+كم السعر النهائي؟,PRICE_INQUIRY
+أبغى السعر,PRICE_INQUIRY
+كم قيمة هذا المنتج؟,PRICE_INQUIRY
+كم المبلغ؟,PRICE_INQUIRY
+هل السعر ثابت؟,PRICE_INQUIRY
+كم حسابه؟,PRICE_INQUIRY
+
+هل الفستان متوفر؟,PRODUCT_INFO
+هل المنتج متوفر؟,PRODUCT_INFO
+هل يوجد مقاسات؟,PRODUCT_INFO
+هل فيه ألوان ثانية؟,PRODUCT_INFO
+هل هذا المنتج موجود؟,PRODUCT_INFO
+هل الفستان موجود حالياً؟,PRODUCT_INFO
+هل فيه مقاس كبير؟,PRODUCT_INFO
+هل فيه مقاس صغير؟,PRODUCT_INFO
+ما هي المقاسات المتوفرة؟,PRODUCT_INFO
+ما الألوان المتاحة؟,PRODUCT_INFO
+هل اللون الأسود موجود؟,PRODUCT_INFO
+هل يوجد لون أبيض؟,PRODUCT_INFO
+هل يتوفر هذا المنتج؟,PRODUCT_INFO
+هل يوجد خيارات أخرى؟,PRODUCT_INFO
+هل المقاسات كاملة؟,PRODUCT_INFO
+هل يوجد مخزون؟,PRODUCT_INFO
+هل انتهى المنتج؟,PRODUCT_INFO
+هل فيه موديلات ثانية؟,PRODUCT_INFO
+هل فيه نفس المنتج بلون آخر؟,PRODUCT_INFO
+هل الفستان متوفر الآن؟,PRODUCT_INFO
+
+متى تفتحون؟,BUSINESS_HOURS
+وش أوقات العمل؟,BUSINESS_HOURS
+متى الدوام؟,BUSINESS_HOURS
+متى تقفلون؟,BUSINESS_HOURS
+ما ساعات العمل؟,BUSINESS_HOURS
+وش وقت الإغلاق؟,BUSINESS_HOURS
+
+هل توصلون؟,DELIVERY_INFO
+هل في توصيل؟,DELIVERY_INFO
+توفرون توصيل؟,DELIVERY_INFO
+هل في خدمة توصيل؟,DELIVERY_INFO
+عندكم توصيل؟,DELIVERY_INFO
+هل التوصيل متاح؟,DELIVERY_INFO
